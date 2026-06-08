@@ -97,7 +97,7 @@
       margin-top:45px;
       display:flex;
       justify-content:space-between;
-      gap:10px;
+      gap:2px;
     }
 
     .item{
@@ -111,8 +111,8 @@
       color:inherit;
     }
     .icone{
-      width:50px;
-      height:50px;
+      width:52px;
+      height:52px;
       margin:auto;
       background:#072d79;
       border-radius:50%;
@@ -183,13 +183,13 @@
       }
 
       .icone{
-        width:75px;
-        height:75px;
+        width:40px;
+        height:40px;
         font-size:30px;
       }
 
       .item span{
-        font-size:17px;
+        font-size:12px;
       }
 
     }
